@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ntmscope</title>
+    <link>http://ntmscope.org/</link>
+    <description>Recent content on ntmscope</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://ntmscope.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://ntmscope.org/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://ntmscope.org/news/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://ntmscope.org/publication/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntmwiki</title>
+      <link>http://ntmscope.org/wiki/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://ntmscope.org/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://ntmscope.org/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ntmscope.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For_laters</title>
+      <link>http://ntmscope.org/for_later/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/for_later/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imprint and Privacy</title>
+      <link>http://ntmscope.org/imprint-and-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/imprint-and-privacy/</guid>
+      <description>&lt;p&gt;Dr. Nils Wetzstein&lt;br&gt;
+University Hospital Frankfurt&lt;br&gt;
+Department of Internal Medicine, Infectious Diseases&lt;br&gt;
+Theodor-Stern-Kai 7&lt;br&gt;
+60590 Frankfurt&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://ntmscope.org/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
