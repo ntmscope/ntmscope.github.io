@@ -7,10 +7,51 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/mycobacterium-abscessus/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Delineating *Mycobacterium abscessus* population structure and transmission employing high-resolution core genome multilocus sequence typing</title>
+      <link>http://ntmscope.org/publication/nc_2022/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/publication/nc_2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41467-022-32122-5&#34;&gt;At Journal Homepage&lt;/a&gt;
+or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35999208/&#34;&gt;Pubmed&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular Epidemiology of *Mycobacterium abscessus* Isolates Recovered from German Cystic Fibrosis Patients</title>
+      <link>http://ntmscope.org/publication/ms_2022/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/publication/ms_2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://journals.asm.org/doi/10.1128/spectrum.01714-22&#34;&gt;At Journal Homepage&lt;/a&gt;
+or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35938728/&#34;&gt;Pubmed&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESM Meeting 2022</title>
+      <link>http://ntmscope.org/news/post3/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post3/</guid>
+      <description>&lt;img src=&#34;featured.png&#34;&gt;
+&lt;br&gt;
+Margo Diricks will give a talk on her work &#34;Delineating &lt;i&gt;Mycobacterium abscessus&lt;/i&gt; population structure employing high-resolution core genome mulitlocus sequence typing&#34; at the annual meeting of the European Society of Myocbacteriology in Bologna on Tuesday, 28th June at 3 p.m. &lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;
+The talk can be followed online, as well.
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.esmycobacteriology.eu/event-home&#34;&gt;ESM conference homepage&lt;/a&gt;</description>
+    </item>
     
     <item>
       <title>ECCMID 2022</title>
@@ -32,7 +73,9 @@ We&#39;ll be happy to see you there.
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/publication/jcm_2020/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32938741/&#34;&gt;Pubmed&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;At
+&lt;a href=&#34;https://journals.asm.org/doi/10.1128/JCM.01813-20?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34;&gt;JCM&lt;/a&gt; or
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32938741/&#34;&gt;Pubmed&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -42,34 +85,59 @@ We&#39;ll be happy to see you there.
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/publication/infection_2019/</guid>
-      <description>&lt;p&gt;Access &lt;a href=&#34;http://link.springer.com/10.1007/s15010-019-01317-2&#34;&gt;at Springer&lt;/a&gt;
+      <description>&lt;p&gt;At &lt;a href=&#34;http://link.springer.com/10.1007/s15010-019-01317-2&#34;&gt;Springer&lt;/a&gt;
 or
 &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31093923/&#34;&gt;Pubmed&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>MOMA_CF</title>
-      <link>http://ntmscope.org/project/mab/</link>
+      <title>cronoclone</title>
+      <link>http://ntmscope.org/project/chrono_clone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/project/mab/</guid>
+      <guid>http://ntmscope.org/project/chrono_clone/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: &lt;em&gt;M. abscessus&lt;/em&gt; is a multi-drug resistant rapid-growing mycobacterium that causes difficult to treat infections. Especially, patients with predisposing lung conditions, such as cystic fibrosis, are the ones most at risk. It has also been involved in nosocomial transmission during surgical procedures. However, the existence of so-called dominant circulating clones that exist globally and are associated with higher mortality and morbidity have lead to the assumption that inter-human transmission (direct or via fomites) takes place in these NTM. It has been stipulated that this NTM undergoes similar evolutional changes as &lt;em&gt;M. tuberculosis&lt;/em&gt; complex before becoming a exclusively pathogenic mycobacterium.
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Objectives&lt;/strong&gt;: Investigation of the genomic landscape of M. abscessus in Germany, especially among CF-patients and the search for the dominant circulating clones in a German collective.
+&lt;strong&gt;Objectives&lt;/strong&gt;: This study will implement state-of-the-art DNA sequencing and phenotyping technologies for operational research on NTM in CF to address the following hypotheses: i) Whole genome sequencing (WGS) of
+sequential &lt;em&gt;M. abscessus&lt;/em&gt; isolates from single patients can identify the occurrence of genomic polymorphisms in NTM associated with virulence and drug resistance, and provide comprehensive typing data to identify transmission. ii) Phenotypic drug susceptibility testing (pDST) can be used to validate genotype/phenotype relations for specific NTM strains and provide functional data on clinical drug susceptibility breakpoints. iii) Comprehensive analysis of sequential NTM isolates from single patients by WGS and pDST will improve prediction of clinical impact of NTM-positive cultures in individual patients.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Expected benefit for CF patients&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New insights into patient-to-patient transmission, evolution of virulence and resistance over time and the correlation of genotype, phenotype and clinical outcome&lt;/li&gt;
+&lt;li&gt;New evidence to design personalized treatment regimens for CF patients with NTM infections and new directions for future NTM research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;
 &lt;strong&gt;Methods&lt;/strong&gt;: Clinical and epidemiological data-analysis, whole genome sequencing, genotypic drug susceptibility testing.&lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis completed, manuscript under review&lt;/em&gt;
+&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis currently ongoing&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOMA_CF</title>
+      <link>http://ntmscope.org/project/moma_cf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/project/moma_cf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: &lt;em&gt;M. abscessus&lt;/em&gt; is a multi-drug resistant rapid-growing mycobacterium that causes difficult to treat infections. Especially, patients with predisposing lung conditions, such as cystic fibrosis, are the ones most at risk. It has also been involved in nosocomial transmission during surgical procedures. However, the existence of so-called dominant circulating clones that exist globally and are associated with higher mortality and morbidity have lead to the assumption that inter-human transmission (direct or via fomites) takes place in these NTM. It has been stipulated that this NTM undergoes similar evolutional changes as &lt;em&gt;M. tuberculosis&lt;/em&gt; complex before becoming a exclusively pathogenic mycobacterium.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Objectives&lt;/strong&gt;: Investigation of the genomic landscape of &lt;em&gt;M. abscessus&lt;/em&gt; in Germany, especially among CF-patients and the search for the dominant circulating clones in a German collective.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Methods&lt;/strong&gt;: Clinical and epidemiological data-analysis, whole genome sequencing, genotypic drug susceptibility testing.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis completed&lt;/em&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB44160?show=reads&#34;&gt;European Nucleotide Archive&lt;/a&gt;&lt;br&gt;
 &lt;br&gt;
-&lt;a href=&#34;https://microreact.org/project/aMs8PjfffG52vmAfjYukXe-moma-cf&#34;&gt;Microreact project&lt;/a&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;iframe height=&#34;800&#34; width=&#34;800&#34; src=&#34;https://microreact.org/project/aMs8PjfffG52vmAfjYukXe-moma-cf&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;a href=&#34;http://ntmscope.org/moma_cf_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

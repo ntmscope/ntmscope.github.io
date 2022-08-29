@@ -2,49 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ntmscope.org/wiki/example/mac/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>http://ntmscope.org/authors/florian-p.-maurer/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/wiki/example/m_genavense/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/wiki/example/template/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/wiki/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/talk/coding/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/talk/qualitative/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/talk/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://ntmscope.org/authors/margo-diricks/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/nils-wetzstein/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/stefan-niemann/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/thomas-a.-kohl/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/publication_types/2/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/news/post2/</loc>
+    <loc>http://ntmscope.org/publication/nc_2022/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/matthias-merker/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/mycobacterium-abscessus/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/ntm/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/publication_types/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/publication/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/cronoclone/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/moma_cf/</loc>
+    <loc>http://ntmscope.org/news/post6/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/mycobacterium-abscessus/</loc>
+    <loc>http://ntmscope.org/tags/non-tuberculoous-mycobacteria/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/ntmscope/</loc>
@@ -53,17 +68,83 @@
     <loc>http://ntmscope.org/news/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/</loc>
+    <loc>http://ntmscope.org/authors/michael-hogardt/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/thomas-a.-wichelhaus/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/annika-schmidt/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/astrid-lewin/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/barbara-c.-kahl/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/carsten-schwarz/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/christian-hugel/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/christina-smaczny/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/jan-kehrmann/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/karl-dichtl/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/laura-paulowski/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/lutz-nahrlich/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/publication/ms_2022/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/moma-cf/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post5/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/olaf-eickmeier/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/stefan-zimmermann/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/sylvia-hafkemeyer/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/authors/sonke-andres/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post4/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/m.-genavense/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/ntmscope_meta/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post3/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post2/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/moma_cf/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/news/post1/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/thomas-a.-wichelhaus/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/publication_types/2/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/benjamin-f.-koch/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -101,18 +182,6 @@
     <loc>http://ntmscope.org/tags/mycobacterium-genavense/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/ntm/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/publication_types/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/publication/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/timo-wolf/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -143,26 +212,11 @@
     <loc>http://ntmscope.org/authors/gerrit-kann/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/authors/maria-j.-g.-t.-vehreschild/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/michael-hogardt/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/tags/source-themes/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/tobias-bingold/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/florian-p.-maurer/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/stefan-niemann/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/thomas-a.-kohl/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/publication/jcm_2020/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
@@ -173,13 +227,7 @@
     <loc>http://ntmscope.org/tags/cf/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/authors/christian-hugel/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/hubert-serve/</loc>
-    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/authors/sonke-andres/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/tilman-g.-schultze/</loc>
@@ -206,48 +254,38 @@
     <loc>http://ntmscope.org/authors/teodora-biciusca/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/wiki/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/claus-philippe-kupper-tetzel/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/gudrun-just-nubling/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/authors/olaf-eickmeier/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/publication/infection_2019/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/admin/</loc>
   </url><url>
-    <loc>http://ntmscope.org/authors/margo-diricks/</loc>
+    <loc>http://ntmscope.org/authors/lisa-marschall/</loc>
   </url><url>
-    <loc>http://ntmscope.org/for_later/michael-hogardt/</loc>
+    <loc>http://ntmscope.org/authors/thomas-anton/</loc>
   </url><url>
-    <loc>http://ntmscope.org/for_later/thomas-anton/</loc>
+    <loc>http://ntmscope.org/moma_cf_microreact/</loc>
   </url><url>
     <loc>http://ntmscope.org/categories/</loc>
   </url><url>
     <loc>http://ntmscope.org/contact/</loc>
   </url><url>
-    <loc>http://ntmscope.org/for_later/</loc>
+    <loc>http://ntmscope.org/project/chrono_clone/</loc>
   </url><url>
     <loc>http://ntmscope.org/imprint-and-privacy/</loc>
   </url><url>
     <loc>http://ntmscope.org/tags/m.-avium-complex/</loc>
   </url><url>
-    <loc>http://ntmscope.org/project/mab/</loc>
+    <loc>http://ntmscope.org/project/moma_cf/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/mac/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/project/meta/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/</loc>
   </url><url>
