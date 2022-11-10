@@ -283,6 +283,8 @@
   </url><url>
     <loc>http://ntmscope.org/project/moma_cf/</loc>
   </url><url>
+    <loc>http://ntmscope.org/project/eco/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/mac/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/meta/</loc>
@@ -296,5 +298,7 @@
     <loc>http://ntmscope.org/tags/sgm/</loc>
   </url><url>
     <loc>http://ntmscope.org/tags/slow-growing-mycobacteria/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/tags/water-samples/</loc>
   </url>
 </urlset>
