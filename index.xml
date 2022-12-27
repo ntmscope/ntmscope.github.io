@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>http://ntmscope.org/news/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>http://ntmscope.org/news/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Slides</title>
+      <link>http://ntmscope.org/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/news/</guid>
+      <guid>http://ntmscope.org/slides/</guid>
       <description></description>
     </item>
     
@@ -121,6 +130,41 @@ This disclaimer is to be regarded as part of the internet publication which you 
       
       <guid>http://ntmscope.org/project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://ntmscope.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/resources/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Tools&lt;/b&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://github.com/ngs-fzb/MTBseq_source&#34;&gt;MTBseq&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://github.com/jodyphelan/NTM-Profiler&#34;&gt;NTM-Profiler&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Repositories&lt;/b&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://github.com/ngs-fzb/NTMtools&#34;&gt;NTMtools&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Organizations&lt;/b&gt;
+&lt;br&gt;
+&lt;a href=&#34;http://ntm-net.org/&#34;&gt;NTM-NET&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.tbnet.eu/&#34;&gt;TBnet&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Other links&lt;/b&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.fz-borstel.de/&#34;&gt;Research Center Borstel&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.kgu.de/einrichtungen/kliniken/zentrum-der-inneren-medizin/medizinische-klinik-2-haematologie-onkologie-haemostaseologie-rheumatologie-infektiologiehiv/infektiologie/&#34;&gt;Department of Infectious Diseases, University Hospital Frankfurt&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.kgu.de/einrichtungen/institute/zentrum-der-hygiene/medizinische-mikrobiologie-und-krankenhaushygiene/&#34;&gt;Institute for Medical Microbiology and Hygiene, University Hospital Frankfurt&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

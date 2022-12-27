@@ -7,10 +7,48 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/non-tuberculoous-mycobacteria/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New projects started: ntmscope_registry and ntmscope_eco</title>
+      <link>http://ntmscope.org/news/post8/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post8/</guid>
+      <description>&lt;img src=&#34;featured.png&#34;&gt;
+&lt;br&gt;
+We are happy to announce that we can start two new projects within ntmscope: &lt;a href=&#34;http://ntmscope.org/project/registry&#34;&gt; ntmscope_registry&lt;/a&gt; and &lt;a href=&#34;http://ntmscope.org/project/eco&#34;&gt; ntmscope_eco&lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;ntmscope_registry&lt;/b&gt;&lt;br&gt;
+ There is accumulating evidence that the incidence of NTM is increasing. However, as NTM disease is non-notifiable, data remains scarce. The &lt;a href=&#34;http://ntmscope.org/project/registry&#34;&gt; ntmscope_registry&lt;/a&gt;  shall close this gap and investigate the overall epidemiological data in NTM infected and colonised patients in Germany. The registry is currently being constructed with help of the Institute of Medical Informatics (IMI) at Goethe University Frankfurt.
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;b&gt;ntmscope_eco&lt;/b&gt;&lt;br&gt;
+ As NTM are ubiquitous organisms, they have been isolated from soils, dust, zoonotic sources, as well as water sources in a variety of geographic locations. However, in Germany NTM have rarely been isolated from water sources. In &lt;a href=&#34;http://ntmscope.org/project/eco&#34;&gt; ntmscope_eco&lt;/a&gt;, we aim at investigating the prevalence of NTM from potable and environmental water sources.
+ &lt;br&gt;
+ &lt;br&gt;
+We are really looking forward to the development of these two new projects.</description>
+    </item>
+    
+    <item>
+      <title>DGHM Paper of the Month</title>
+      <link>http://ntmscope.org/news/post7/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post7/</guid>
+      <description>&lt;img src=&#34;featured.png&#34;&gt;
+&lt;br&gt;
+Margo Dirick&#39;s publication &#34;Delineating &lt;i&gt;Mycobacterium abscessus&lt;/i&gt; population structure and transmission employing high-resolution core genome multilocus sequence typing&#34; has won the Paper of the Month award by the German Society for Hygiene and Microbiology (DGHM). See the news announcement &lt;a href=&#34;https://www.dghm.org/aktuelles/paper-of-the-month/&#34;&gt;here&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;
+ The paper is open access and can be found at 
+&lt;a href=&#34;http://ntmscope.org/publication/nc_2022&#34;&gt;ntmcope.org&lt;/a&gt;, the &lt;a href=&#34;https://www.nature.com/articles/s41467-022-32122-5&#34;&gt;Journal&#39;s Homepage&lt;/a&gt;, or &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35999208/&#34;&gt; PubMed&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;
+Congratulations Margo!</description>
+    </item>
     
     <item>
       <title>New publication in Nature Communications</title>

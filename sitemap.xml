@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://ntmscope.org/tags/cronoclone/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post8/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/non-tuberculoous-mycobacteria/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/ntmscope/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post7/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://ntmscope.org/authors/florian-p.-maurer/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,34 +65,13 @@
     <loc>http://ntmscope.org/tags/ntm/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/publication_types/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/publication/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/cronoclone/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/news/post6/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/non-tuberculoous-mycobacteria/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/ntmscope/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/news/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/michael-hogardt/</loc>
@@ -263,6 +269,12 @@
     <loc>http://ntmscope.org/publication/infection_2019/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://ntmscope.org/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://ntmscope.org/authors/admin/</loc>
   </url><url>
     <loc>http://ntmscope.org/authors/lisa-marschall/</loc>
@@ -289,9 +301,15 @@
   </url><url>
     <loc>http://ntmscope.org/project/meta/</loc>
   </url><url>
+    <loc>http://ntmscope.org/project/registry/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/</loc>
   </url><url>
     <loc>http://ntmscope.org/tags/rapid-growing-mycobacteria/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/tags/registry/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/resources/</loc>
   </url><url>
     <loc>http://ntmscope.org/tags/rgm/</loc>
   </url><url>
