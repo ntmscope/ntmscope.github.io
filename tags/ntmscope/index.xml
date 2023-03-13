@@ -7,10 +7,39 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/ntmscope/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation during COST action: Analyzing the spread of Mycobacterium abscessus: An Overview of Outbreak and Transmission Dynamics</title>
+      <link>http://ntmscope.org/news/post9/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post9/</guid>
+      <description>&lt;br&gt;
+Margo Diricks is going to give a talk at this year&#39;s COST action - Update on non-tuberculous mycobacterial disease in Bukarest, Romania, at 23rd of March:
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Analyzing the spread of Mycobacterium abscessus: An Overview of Outbreak and Transmission Dynamics&lt;/b&gt;
+&lt;br&gt;&lt;br&gt;
+We will be happy to see you there!</description>
+    </item>
+    
+    <item>
+      <title>Presentation: Genomic Surveillance of the emerging pathogen Mycobacterium abscessus</title>
+      <link>http://ntmscope.org/news/post10/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post10/</guid>
+      <description>&lt;p&gt;Margo Diricks is giving a talk at UMS series Emerging Infectious Diseases in Serbia at 30th of March.
+&lt;br&gt;&lt;br&gt;
+The title is: &lt;b&gt;Genomic Surveillance of the emerging pathogen &lt;i&gt;Mycobacterium abscessus&lt;/i&gt;&lt;/b&gt;.
+&lt;br&gt;&lt;br&gt;
+We will be happy to see you there!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New projects started: ntmscope_registry and ntmscope_eco</title>

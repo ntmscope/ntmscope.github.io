@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ntmscope.org/tags/cronoclone/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/ntmscope/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post9/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post10/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/news/post8/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
@@ -14,17 +32,8 @@
     <loc>http://ntmscope.org/tags/non-tuberculoous-mycobacteria/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/tags/ntmscope/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/news/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+    <loc>http://ntmscope.org/tags/cronoclone/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/news/post7/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
@@ -57,9 +66,6 @@
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/mycobacterium-abscessus/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/ntm/</loc>
