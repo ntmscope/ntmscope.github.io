@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M. chimaera</title>
+      <link>http://ntmscope.org/tags/m.-chimaera/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/m.-chimaera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-tuberculous mycobacteria</title>
+      <link>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntmscope</title>
+      <link>http://ntmscope.org/tags/ntmscope/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/ntmscope/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>M. abscessus</title>
@@ -22,29 +49,38 @@
     </item>
     
     <item>
-      <title>non-tuberculous mycobacteria</title>
-      <link>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <title>cardiac surgery</title>
+      <link>http://ntmscope.org/tags/cardiac-surgery/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</guid>
+      <guid>http://ntmscope.org/tags/cardiac-surgery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ntmscope</title>
-      <link>http://ntmscope.org/tags/ntmscope/</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <title>heater-cooler unit</title>
+      <link>http://ntmscope.org/tags/heater-cooler-unit/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/tags/ntmscope/</guid>
+      <guid>http://ntmscope.org/tags/heater-cooler-unit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M. chimaera</title>
-      <link>http://ntmscope.org/tags/m.-chimaera/</link>
-      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Mycobacterium chimaera</title>
+      <link>http://ntmscope.org/tags/mycobacterium-chimaera/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/tags/m.-chimaera/</guid>
+      <guid>http://ntmscope.org/tags/mycobacterium-chimaera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTM</title>
+      <link>http://ntmscope.org/tags/ntm/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/ntm/</guid>
       <description></description>
     </item>
     
@@ -72,15 +108,6 @@
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/mycobacterium-abscessus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NTM</title>
-      <link>http://ntmscope.org/tags/ntm/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/ntm/</guid>
       <description></description>
     </item>
     

@@ -7,25 +7,15 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://ntmscope.org/authors/florian-p.-maurer/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/florian-p.-maurer/</guid>
-      <description>&lt;p&gt;Florian Maurer is a medical doctor trained in Germany, Switzerland and South Africa. He is a Professor of Medical Microbiology at the University Medical Center Hamburg-Eppendorf and holds both German and Swiss specialist degrees in Clinical Microbiology. He has a strong background in public health, bacteriology, antimicrobial resistance, drug susceptibility testing and chemotherapy of infections due to highly drug-resistant pathogens. He offers regular educational activities on clinical microbiology, antimicrobial resistance and antibiotic stewardship to medical students and infectious diseases professionals. His current research interests include the structure-function relationship of determinants conferring virulence and drug-resistance in mycobacteria, in particular in highly drug-resistant strains of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; and &lt;em&gt;Mycobacterium abscessus&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://ntmscope.org/authors/margo-diricks/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/margo-diricks/</guid>
       <description>&lt;p&gt;Margo Diricks is postdoctoral researcher and bioinformatics research scientist in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel, Germany. She is interested in microbiology, antimicrobial resistance and molecular epidemiology of mycobacteria and other emerging lung pathogens. Currently, she is involved in different projects regarding molecular typing of bacteria, such as &lt;em&gt;Haemophilus influenzae&lt;/em&gt; and &lt;em&gt;Mycobacterium abscessus&lt;/em&gt;. For the latter, she developed a cgMLST scheme to delineate global population structure and transmission and is curator of the publicly available M. abscessus 7-loci MLST scheme at pubmlst.org.&lt;/p&gt;
@@ -34,8 +24,18 @@
     
     <item>
       <title></title>
+      <link>http://ntmscope.org/authors/michael-hogardt/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/michael-hogardt/</guid>
+      <description>&lt;p&gt;Michael Hogardt is senior consultant for microbiology at the Institute of Medical Microbiology and Hospital Hygiene in Frankfurt, Germany. He is head of the consiliary laboratory for cystic fibrosis (CF) bacteriology. His research interests are bacteria that cause difficult to treat infections in CF patients, such as &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, &lt;em&gt;Burkholderia cepacia&lt;/em&gt; complex or NTM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://ntmscope.org/authors/nils-wetzstein/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at University Hospital Frankfurt (UHF). He has a keen interest in mycobacterial diseases and his research is primarily focussed on NTM infections. The working group of mycobacterial diseases at UHF uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
@@ -46,7 +46,7 @@
     <item>
       <title></title>
       <link>http://ntmscope.org/authors/stefan-niemann/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/stefan-niemann/</guid>
       <description>&lt;p&gt;Stefan Niemann is Professor at the Research Center Borstel, Molecular and Experimental Mycobacteriology in Germany. He is molecular biologist with a large experience in molecular characterization of &lt;em&gt;M. tuberculosis&lt;/em&gt; complex isolates. His research interests are focused on the development of rapid diagnostics, the epidemiology of tuberculosis (TB), mechanisms of development and spread of resistance in clinical M. tuberculosis complex (MTBC) isolates, the microevolution in clinical MTBC isolates, the global population structure/evolution of the pathogen, and on the pathobiology and host-pathogen interaction. The following links provide more information on his research goals
@@ -63,10 +63,102 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     <item>
       <title></title>
       <link>http://ntmscope.org/authors/thomas-a.-kohl/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/thomas-a.-kohl/</guid>
       <description>&lt;p&gt;Thomas Kohl works as postdoctoral researcher in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel. There, he established the NGS sequencing lab and the respective Bioinformatics procedures and IT infrastructure, and is managing the continued operation of the NGS unit with a throughput of more than 8000 samples annually. He was involved in several key studies establishing the use of whole genome sequencing for the analysis of bacterial pathogens such as the &lt;em&gt;M. tuberculosis&lt;/em&gt; complex, &lt;em&gt;M. chimaera&lt;/em&gt;, and &lt;em&gt;S. maltophilia&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ntmscope.org/authors/thomas-a.-wichelhaus/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/thomas-a.-wichelhaus/</guid>
+      <description>&lt;p&gt;Thomas A. Wichelhaus is Professor for Microbiology at the Institute for Medical Microbiology and Infection Control at University Hospital, Frankfurt. He is involved in different fields of clinical microbiology. As head of the diagnostic laboratory for Mycobacteria, he is highly interested in mycobacterial diseases such as NTM infections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benjamin F. Koch</title>
+      <link>http://ntmscope.org/authors/benjamin-f.-koch/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/benjamin-f.-koch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christiana Graf</title>
+      <link>http://ntmscope.org/authors/christiana-graf/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/christiana-graf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Stephan</title>
+      <link>http://ntmscope.org/authors/christoph-stephan/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/christoph-stephan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva Herrmann</title>
+      <link>http://ntmscope.org/authors/eva-herrmann/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/eva-herrmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johanna Kessel</title>
+      <link>http://ntmscope.org/authors/johanna-kessel/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/johanna-kessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria J.G.T. Vehreschild</title>
+      <link>http://ntmscope.org/authors/maria-j.g.t.-vehreschild/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/maria-j.g.t.-vehreschild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Mas-Peiro</title>
+      <link>http://ntmscope.org/authors/silvia-mas-peiro/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/silvia-mas-peiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomas Holubec</title>
+      <link>http://ntmscope.org/authors/tomas-holubec/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/tomas-holubec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ntmscope.org/authors/florian-p.-maurer/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/florian-p.-maurer/</guid>
+      <description>&lt;p&gt;Florian Maurer is a medical doctor trained in Germany, Switzerland and South Africa. He is a Professor of Medical Microbiology at the University Medical Center Hamburg-Eppendorf and holds both German and Swiss specialist degrees in Clinical Microbiology. He has a strong background in public health, bacteriology, antimicrobial resistance, drug susceptibility testing and chemotherapy of infections due to highly drug-resistant pathogens. He offers regular educational activities on clinical microbiology, antimicrobial resistance and antibiotic stewardship to medical students and infectious diseases professionals. His current research interests include the structure-function relationship of determinants conferring virulence and drug-resistance in mycobacteria, in particular in highly drug-resistant strains of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; and &lt;em&gt;Mycobacterium abscessus&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -77,26 +169,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
       
       <guid>http://ntmscope.org/authors/matthias-merker/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ntmscope.org/authors/michael-hogardt/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/michael-hogardt/</guid>
-      <description>&lt;p&gt;Michael Hogardt is senior consultant for microbiology at the Institute of Medical Microbiology and Hospital Hygiene in Frankfurt, Germany. He is head of the consiliary laboratory for cystic fibrosis (CF) bacteriology. His research interests are bacteria that cause difficult to treat infections in CF patients, such as &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, &lt;em&gt;Burkholderia cepacia&lt;/em&gt; complex or NTM.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ntmscope.org/authors/thomas-a.-wichelhaus/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/thomas-a.-wichelhaus/</guid>
-      <description>&lt;p&gt;Thomas A. Wichelhaus is Professor for Microbiology at the Institute for Medical Microbiology and Infection Control at University Hospital, Frankfurt. He is involved in different fields of clinical microbiology. As head of the diagnostic laboratory for Mycobacteria, he is highly interested in mycobacterial diseases such as NTM infections.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -226,33 +298,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     </item>
     
     <item>
-      <title>Benjamin F. Koch</title>
-      <link>http://ntmscope.org/authors/benjamin-f.-koch/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/benjamin-f.-koch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christiana Graf</title>
-      <link>http://ntmscope.org/authors/christiana-graf/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/christiana-graf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christoph Stephan</title>
-      <link>http://ntmscope.org/authors/christoph-stephan/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/christoph-stephan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Claus P. Küpper-Tetzel</title>
       <link>http://ntmscope.org/authors/claus-p.-kupper-tetzel/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -280,15 +325,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     </item>
     
     <item>
-      <title>Johanna Kessel</title>
-      <link>http://ntmscope.org/authors/johanna-kessel/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/johanna-kessel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jonathan Carney</title>
       <link>http://ntmscope.org/authors/jonathan-carney/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -303,15 +339,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/justus-baumgarten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria J.G.T. Vehreschild</title>
-      <link>http://ntmscope.org/authors/maria-j.g.t.-vehreschild/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/maria-j.g.t.-vehreschild/</guid>
       <description></description>
     </item>
     
