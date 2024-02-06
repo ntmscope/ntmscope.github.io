@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/m.-avium-complex/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/mac/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/ntmscope/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/news/post16/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://ntmscope.org/tags/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/tags/plasmids/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/news/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/news/post15/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/news/post14/</loc>
@@ -34,9 +46,6 @@
   </url><url>
     <loc>http://ntmscope.org/news/post12/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/tags/m.-abscessus/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/news/post11/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
@@ -335,11 +344,11 @@
   </url><url>
     <loc>http://ntmscope.org/contact/</loc>
   </url><url>
+    <loc>http://ntmscope.org/contact_2/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/chrono_clone/</loc>
   </url><url>
     <loc>http://ntmscope.org/imprint-and-privacy/</loc>
-  </url><url>
-    <loc>http://ntmscope.org/tags/m.-avium-complex/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/moma_cf/</loc>
   </url><url>

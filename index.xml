@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>http://ntmscope.org/news/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/news/</guid>
       <description></description>
@@ -54,6 +54,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/contact/</guid>
+      <description>&lt;p&gt;For further information information or to contribute to one of our studies, please email to &lt;b&gt;info[at]ntmscope[dot]org&lt;/b&gt; or contact: &lt;br&gt;&lt;br&gt;
+PD Dr. Nils Wetzstein &lt;br&gt;
+&lt;b&gt;nils.wetzstein[at]ntmscope[at]org &lt;/b&gt; &lt;br&gt;
+University Hospital Frankfurt &lt;br&gt;
+Department of Internal Medicine, Infectious Diseases &lt;br&gt;
+Theodor-Stern-Kai 7 &lt;br&gt;
+60590 Frankfurt &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ntmscope.org/contact_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/contact_2/</guid>
       <description></description>
     </item>
     

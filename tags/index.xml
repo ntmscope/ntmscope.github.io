@@ -7,15 +7,42 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>M. abscessus</title>
+      <link>http://ntmscope.org/tags/m.-abscessus/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/m.-abscessus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. avium complex</title>
+      <link>http://ntmscope.org/tags/m.-avium-complex/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/m.-avium-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAC</title>
+      <link>http://ntmscope.org/tags/mac/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>non-tuberculous mycobacteria</title>
       <link>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</guid>
       <description></description>
@@ -24,7 +51,7 @@
     <item>
       <title>ntmscope</title>
       <link>http://ntmscope.org/tags/ntmscope/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/ntmscope/</guid>
       <description></description>
@@ -45,15 +72,6 @@
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/m.-chimaera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. abscessus</title>
-      <link>http://ntmscope.org/tags/m.-abscessus/</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/m.-abscessus/</guid>
       <description></description>
     </item>
     
@@ -216,15 +234,6 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/mycobacterium-avium-complex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. avium complex</title>
-      <link>http://ntmscope.org/tags/m.-avium-complex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/m.-avium-complex/</guid>
       <description></description>
     </item>
     
