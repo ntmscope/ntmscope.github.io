@@ -7,15 +7,36 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>http://ntmscope.org/authors/inna-friesen/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/inna-friesen/</guid>
+      <description>&lt;p&gt;Inna Friesen is a trained medical doctor with experience spanning Germany, South Africa, Japan, and Spain. Currently, she leads the National and Supranational Reference Laboratory for Mycobacteria in Germany, holding specialist degrees in clinical microbiology and a master&amp;rsquo;s degree in epidemiology from the Berlin School of Public Health.  She contributes to addressing antimicrobial resistance and is member of steering committees such as the ERLTB-Network by ECDC and the EUCAST-AMST Subcommittee for Mycobacteria. Passionate about translating cutting-edge science into practical diagnostics, she supports clinicians through diagnostic services and education in the field of mycobacteria.
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ntmscope.org/authors/lisa-marschall/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/lisa-marschall/</guid>
+      <description>&lt;p&gt;Lisa Marschall is a MD thesis student at the Department of Infectious Diseases and the Institute for Medical Microbiology and Infection Control, University Hospital Frankfurt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://ntmscope.org/authors/margo-diricks/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/margo-diricks/</guid>
       <description>&lt;p&gt;Margo Diricks is postdoctoral researcher and bioinformatics research scientist in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel, Germany. She is interested in microbiology, antimicrobial resistance and molecular epidemiology of mycobacteria and other emerging lung pathogens. Currently, she is involved in different projects regarding molecular typing of bacteria, such as &lt;em&gt;Haemophilus influenzae&lt;/em&gt; and &lt;em&gt;Mycobacterium abscessus&lt;/em&gt;. For the latter, she developed a cgMLST scheme to delineate global population structure and transmission and is curator of the publicly available M. abscessus 7-loci MLST scheme at pubmlst.org.&lt;/p&gt;
@@ -24,18 +45,8 @@
     
     <item>
       <title></title>
-      <link>http://ntmscope.org/authors/michael-hogardt/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/michael-hogardt/</guid>
-      <description>&lt;p&gt;Michael Hogardt is senior consultant for microbiology at the Institute of Medical Microbiology and Hospital Hygiene in Frankfurt, Germany. He is head of the consiliary laboratory for cystic fibrosis (CF) bacteriology. His research interests are bacteria that cause difficult to treat infections in CF patients, such as &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, &lt;em&gt;Burkholderia cepacia&lt;/em&gt; complex or NTM.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://ntmscope.org/authors/nils-wetzstein/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/nils-wetzstein/</guid>
       <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at University Hospital Frankfurt (UHF). He has a keen interest in mycobacterial diseases and his research is primarily focussed on NTM infections. The working group of mycobacterial diseases at UHF uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
@@ -46,7 +57,7 @@
     <item>
       <title></title>
       <link>http://ntmscope.org/authors/stefan-niemann/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/stefan-niemann/</guid>
       <description>&lt;p&gt;Stefan Niemann is Professor at the Research Center Borstel, Molecular and Experimental Mycobacteriology in Germany. He is molecular biologist with a large experience in molecular characterization of &lt;em&gt;M. tuberculosis&lt;/em&gt; complex isolates. His research interests are focused on the development of rapid diagnostics, the epidemiology of tuberculosis (TB), mechanisms of development and spread of resistance in clinical M. tuberculosis complex (MTBC) isolates, the microevolution in clinical MTBC isolates, the global population structure/evolution of the pathogen, and on the pathobiology and host-pathogen interaction. The following links provide more information on his research goals
@@ -62,21 +73,67 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     
     <item>
       <title></title>
-      <link>http://ntmscope.org/authors/thomas-a.-kohl/</link>
+      <link>http://ntmscope.org/authors/thomas-a.-wichelhaus/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/thomas-a.-wichelhaus/</guid>
+      <description>&lt;p&gt;Thomas A. Wichelhaus is Professor for Microbiology at the Institute for Medical Microbiology and Infection Control at University Hospital, Frankfurt. He is involved in different fields of clinical microbiology. As head of the diagnostic laboratory for Mycobacteria, he is highly interested in mycobacterial diseases such as NTM infections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christina Smaczny</title>
+      <link>http://ntmscope.org/authors/christina-smaczny/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/christina-smaczny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Kuhns</title>
+      <link>http://ntmscope.org/authors/martin-kuhns/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/martin-kuhns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sönke Andres</title>
+      <link>http://ntmscope.org/authors/sonke-andres/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/sonke-andres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teodora Biciusca</title>
+      <link>http://ntmscope.org/authors/teodora-biciusca/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/teodora-biciusca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ntmscope.org/authors/michael-hogardt/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/authors/thomas-a.-kohl/</guid>
-      <description>&lt;p&gt;Thomas Kohl works as postdoctoral researcher in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel. There, he established the NGS sequencing lab and the respective Bioinformatics procedures and IT infrastructure, and is managing the continued operation of the NGS unit with a throughput of more than 8000 samples annually. He was involved in several key studies establishing the use of whole genome sequencing for the analysis of bacterial pathogens such as the &lt;em&gt;M. tuberculosis&lt;/em&gt; complex, &lt;em&gt;M. chimaera&lt;/em&gt;, and &lt;em&gt;S. maltophilia&lt;/em&gt;.&lt;/p&gt;
+      <guid>http://ntmscope.org/authors/michael-hogardt/</guid>
+      <description>&lt;p&gt;Michael Hogardt is senior consultant for microbiology at the Institute of Medical Microbiology and Hospital Hygiene in Frankfurt, Germany. He is head of the consiliary laboratory for cystic fibrosis (CF) bacteriology. His research interests are bacteria that cause difficult to treat infections in CF patients, such as &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, &lt;em&gt;Burkholderia cepacia&lt;/em&gt; complex or NTM.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://ntmscope.org/authors/thomas-a.-wichelhaus/</link>
+      <link>http://ntmscope.org/authors/thomas-a.-kohl/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://ntmscope.org/authors/thomas-a.-wichelhaus/</guid>
-      <description>&lt;p&gt;Thomas A. Wichelhaus is Professor for Microbiology at the Institute for Medical Microbiology and Infection Control at University Hospital, Frankfurt. He is involved in different fields of clinical microbiology. As head of the diagnostic laboratory for Mycobacteria, he is highly interested in mycobacterial diseases such as NTM infections.&lt;/p&gt;
+      <guid>http://ntmscope.org/authors/thomas-a.-kohl/</guid>
+      <description>&lt;p&gt;Thomas Kohl works as postdoctoral researcher in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel. There, he established the NGS sequencing lab and the respective Bioinformatics procedures and IT infrastructure, and is managing the continued operation of the NGS unit with a throughput of more than 8000 samples annually. He was involved in several key studies establishing the use of whole genome sequencing for the analysis of bacterial pathogens such as the &lt;em&gt;M. tuberculosis&lt;/em&gt; complex, &lt;em&gt;M. chimaera&lt;/em&gt;, and &lt;em&gt;S. maltophilia&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -217,15 +274,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     </item>
     
     <item>
-      <title>Christina Smaczny</title>
-      <link>http://ntmscope.org/authors/christina-smaczny/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/christina-smaczny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jan Kehrmann</title>
       <link>http://ntmscope.org/authors/jan-kehrmann/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
@@ -285,15 +333,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/authors/sylvia-hafkemeyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sönke Andres</title>
-      <link>http://ntmscope.org/authors/sonke-andres/</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/sonke-andres/</guid>
       <description></description>
     </item>
     
@@ -460,15 +499,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
     </item>
     
     <item>
-      <title>Teodora Biciusca</title>
-      <link>http://ntmscope.org/authors/teodora-biciusca/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/teodora-biciusca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Claus-Philippe Küpper-Tetzel</title>
       <link>http://ntmscope.org/authors/claus-philippe-kupper-tetzel/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
@@ -495,27 +525,6 @@ Based on his achievements, he has been awarded the Eva and Klaus Grohe Prize of 
       <description>&lt;p&gt;This is the website of &lt;strong&gt;NTMscope&lt;/strong&gt;, a research project that investigates infections caused by non-tuberculous mycobacteria (NTM). We are based at the University Hospital Frankfurt and the Research Centre Borstel, Germany.&lt;/p&gt;
 &lt;p&gt;We use a variety of epidemiological, clinical, microbiological and bioinformatical methods and aim primarily at elucidating the molecular epidemiology and resistance mechanisms in different NTM.&lt;/p&gt;
 &lt;p&gt;On this homepage, we share information regarding ongoing projects as well as the latest news. If you are willing to contribute to one of our studies, you are most welcome and can contact us via the form below.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ntmscope.org/authors/inna-friesen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/inna-friesen/</guid>
-      <description>&lt;p&gt;Inna Friesen is a trained medical doctor with experience spanning Germany, South Africa, Japan, and Spain. Currently, she leads the National and Supranational Reference Laboratory for Mycobacteria in Germany, holding specialist degrees in clinical microbiology and a master&amp;rsquo;s degree in epidemiology from the Berlin School of Public Health.  She contributes to addressing antimicrobial resistance and is member of steering committees such as the ERLTB-Network by ECDC and the EUCAST-AMST Subcommittee for Mycobacteria. Passionate about translating cutting-edge science into practical diagnostics, she supports clinicians through diagnostic services and education in the field of mycobacteria.
-&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ntmscope.org/authors/lisa-marschall/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/lisa-marschall/</guid>
-      <description>&lt;p&gt;Lisa Marschall is a MD thesis student at the Department of Infectious Diseases and the Institute for Medical Microbiology and Infection Control, University Hospital Frankfurt.&lt;/p&gt;
 </description>
     </item>
     
