@@ -116,9 +116,6 @@
     <loc>http://ntmscope.org/authors/michael-hogardt/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/authors/thomas-a.-kohl/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/benjamin-f.-koch/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -152,6 +149,9 @@
     <loc>http://ntmscope.org/authors/silvia-mas-peiro/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://ntmscope.org/authors/thomas-a.-kohl/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://ntmscope.org/authors/tomas-holubec/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -170,10 +170,10 @@
     <loc>http://ntmscope.org/news/post07/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/authors/florian-p.-maurer/</loc>
+    <loc>http://ntmscope.org/publication/nc_2022/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/publication/nc_2022/</loc>
+    <loc>http://ntmscope.org/authors/florian-p.-maurer/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://ntmscope.org/authors/matthias-merker/</loc>
@@ -350,12 +350,6 @@
     <loc>http://ntmscope.org/publication/infection_2019/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ntmscope.org/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://ntmscope.org/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://ntmscope.org/authors/admin/</loc>
   </url><url>
     <loc>http://ntmscope.org/authors/thomas-anton/</loc>
@@ -365,8 +359,6 @@
     <loc>http://ntmscope.org/categories/</loc>
   </url><url>
     <loc>http://ntmscope.org/contact/</loc>
-  </url><url>
-    <loc>http://ntmscope.org/contact_2/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/chrono_clone/</loc>
   </url><url>
