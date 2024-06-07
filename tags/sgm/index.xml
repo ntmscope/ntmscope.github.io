@@ -97,5 +97,28 @@
 </description>
     </item>
     
+    <item>
+      <title>ntmscope_s</title>
+      <link>http://ntmscope.org/project/ntmscope-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/project/ntmscope-s/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: &lt;em&gt;Mycobacterium simiae&lt;/em&gt; is a slow-growing non-tuberculous mycobacterium that can cause non-tuberculous mycobacterium (NTM) pulmonary disease and extrapulmonary infections. Until now, detailed genomic and clinical characteristics, as well as possible transmission routes of this rare pathogen remain largely unknown. &lt;em&gt;M. simiae&lt;/em&gt; is a member of the &lt;em&gt;M. simiae&lt;/em&gt; complex that comprises &lt;em&gt;M. genavense&lt;/em&gt;, &lt;em&gt;M. lentiflavum&lt;/em&gt; and others.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Objectives&lt;/strong&gt;: Investigation of the genomic populations of the &lt;em&gt;M. simiae&lt;/em&gt; complex and the investigation of the longitudinal genomic stability within single patients colonised or infected with &lt;em&gt;M. simiae&lt;/em&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Methods&lt;/strong&gt;: Clinical and epidemiological data-analysis, whole genome sequencing, genotypic drug susceptibility testing.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Status&lt;/strong&gt;: &lt;em&gt;Data analysis completed&lt;/em&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.ebi.ac.uk/ena/browser/view/PRJEB66336?show=reads&#34;&gt;European Nucleotide Archive&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;http://ntmscope.org/ntmscope_s_microreact&#34;&gt;Microreact project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
