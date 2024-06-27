@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mycobacterium malmoense</title>
+      <link>http://ntmscope.org/tags/mycobacterium-malmoense/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/mycobacterium-malmoense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-tuberculous mycobacteria</title>
+      <link>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTM</title>
+      <link>http://ntmscope.org/tags/ntm/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/ntm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ntmscope_meta</title>
+      <link>http://ntmscope.org/tags/ntmscope_meta/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/ntmscope_meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGM</title>
+      <link>http://ntmscope.org/tags/sgm/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/sgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slow-growing mycobacteria</title>
+      <link>http://ntmscope.org/tags/slow-growing-mycobacteria/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/slow-growing-mycobacteria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>less-common NTM</title>
@@ -36,24 +90,6 @@
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/mycobacterium-simiae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>non-tuberculous mycobacteria</title>
-      <link>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/non-tuberculous-mycobacteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NTM</title>
-      <link>http://ntmscope.org/tags/ntm/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/ntm/</guid>
       <description></description>
     </item>
     
@@ -184,15 +220,6 @@
     </item>
     
     <item>
-      <title>ntmscope_meta</title>
-      <link>http://ntmscope.org/tags/ntmscope_meta/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/ntmscope_meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MOMA_CF</title>
       <link>http://ntmscope.org/tags/moma_cf/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
@@ -297,24 +324,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/rgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SGM</title>
-      <link>http://ntmscope.org/tags/sgm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/sgm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>slow growing mycobacteria</title>
-      <link>http://ntmscope.org/tags/slow-growing-mycobacteria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/tags/slow-growing-mycobacteria/</guid>
       <description></description>
     </item>
     

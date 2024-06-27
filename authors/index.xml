@@ -7,10 +7,48 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://ntmscope.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://ntmscope.org/authors/nils-wetzstein/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/nils-wetzstein/</guid>
+      <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at University Hospital Frankfurt (UHF). He has a keen interest in mycobacterial diseases and his research is primarily focussed on NTM infections. The working group of mycobacterial diseases at UHF uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christoph Lange</title>
+      <link>http://ntmscope.org/authors/christoph-lange/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/christoph-lange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troels Lillebaek</title>
+      <link>http://ntmscope.org/authors/troels-lillebaek/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/troels-lillebaek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Naestholt Dahl</title>
+      <link>http://ntmscope.org/authors/victor-naestholt-dahl/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/authors/victor-naestholt-dahl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -40,17 +78,6 @@
       
       <guid>http://ntmscope.org/authors/margo-diricks/</guid>
       <description>&lt;p&gt;Margo Diricks is postdoctoral researcher and bioinformatics research scientist in the Molecular and Experimental Mycobacteriology group at the Research Center Borstel, Germany. She is interested in microbiology, antimicrobial resistance and molecular epidemiology of mycobacteria and other emerging lung pathogens. Currently, she is involved in different projects regarding molecular typing of bacteria, such as &lt;em&gt;Haemophilus influenzae&lt;/em&gt; and &lt;em&gt;Mycobacterium abscessus&lt;/em&gt;. For the latter, she developed a cgMLST scheme to delineate global population structure and transmission and is curator of the publicly available M. abscessus 7-loci MLST scheme at pubmlst.org.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://ntmscope.org/authors/nils-wetzstein/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://ntmscope.org/authors/nils-wetzstein/</guid>
-      <description>&lt;p&gt;Nils Wetzstein is a consultant for infectious diseases at University Hospital Frankfurt (UHF). He has a keen interest in mycobacterial diseases and his research is primarily focussed on NTM infections. The working group of mycobacterial diseases at UHF uses a variety of bacteriological, epidemiological and bioinformatical methods to improve clinical management and patient care for MTB and NTM infected patients.
-&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
