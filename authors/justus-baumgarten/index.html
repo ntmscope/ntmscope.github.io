@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="ntmscope_theme 1.0.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap" rel="stylesheet">
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Inna Friesen">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="ntmscope is a research project for elucidating the genomic epidemiology of non-tuberculous mycobacteria.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://ntmscope.org/authors/justus-baumgarten/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.2d52474944c8d86be41fac84d4d5ab07.css">
+
+  
+
+  
+  
+  
+  
+
+  
+  <link rel="alternate" href="/authors/justus-baumgarten/index.xml" type="application/rss+xml" title="ntmscope">
+  <link rel="feed" href="/authors/justus-baumgarten/index.xml" type="application/rss+xml" title="ntmscope">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://ntmscope.org/authors/justus-baumgarten/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ntmscope">
+  <meta property="og:url" content="http://ntmscope.org/authors/justus-baumgarten/">
+  <meta property="og:title" content="Justus Baumgarten | ntmscope">
+  <meta property="og:description" content="ntmscope is a research project for elucidating the genomic epidemiology of non-tuberculous mycobacteria."><meta property="og:image" content="http://ntmscope.org/img/logos/ntmscope.png">
+  <meta property="twitter:image" content="http://ntmscope.org/img/logos/ntmscope.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2021-12-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Justus Baumgarten | ntmscope</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="bg-2">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg" id="navbar-main">
+  <div class="universal-wrapper flex-row flex-wrap p-sides">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logos/ntmscope_long.png" alt="ntmscope"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/news/"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/project/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/authors/"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact/"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<section id="profile-page" class="__authors-list">
+  <div class="bb">
+    <div class="universal-wrapper">
+      
+      
+      <div class="p-full">
+        <h1 itemprop="name" class="c-4">Justus Baumgarten</h1>
+      </div>
+      
+
+      
+      
+    </div>
+  </div>
+  
+  
+  <div class="bg-3 p-t p-b b-mobile-no bb">
+    <div class="universal-wrapper flex-row flex-wrap">
+      <div class="w33 p-sides">
+        
+        <h2 class="sticky-section-title">
+          <div class="p-b">
+            <div class="meta-label">
+              ntmscope associated
+            </div>
+            <div class="">
+              Publications
+            </div>
+          </div>
+        </h2>
+      </div>
+      <div class="flex-row flex-wrap w66 w50-container tile-container">
+        
+          
+          <div class="">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <div class="card-wrapper">
+      
+      
+
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/publication/yjinf_2021/" itemprop="url">High overall mortality of <em>Mycobacterium genavense</em> infections and impact of antimycobacterial therapy: Systematic review and individual patient data meta-analysis</a>
+      </h3>
+      
+      <div class="card-date meta-label">
+        Dec 1, 2021
+      </div>
+      
+      
+      
+
+
+
+<meta content="2021-12-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-12-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nils-wetzstein/">Nils Wetzstein</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/johanna-kessel/">Johanna Kessel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tobias-m.-bingold/">Tobias M. Bingold</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jonathan-carney/">Jonathan Carney</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christiana-graf/">Christiana Graf</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/benjamin-f.-koch/">Benjamin F. Koch</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/florian-meier/">Florian Meier</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/justus-baumgarten/">Justus Baumgarten</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/claus-p.-kupper-tetzel/">Claus P. Küpper-Tetzel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yascha-khodamoradi/">Yascha Khodamoradi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/timo-wolf/">Timo Wolf</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gundolf-schuttfort/">Gundolf Schüttfort</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/maria-j.g.t.-vehreschild/">Maria J.G.T. Vehreschild</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/thomas-a.-wichelhaus/">Thomas A. Wichelhaus</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christoph-stephan/">Christoph Stephan</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>Journal of Infection</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        A systematic review and meta-analysis on <em>M. genavense</em> infections.
+      </div>
+      
+
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+    </div>
+</div>
+
+          </div>
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  
+</section>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.01ec65a6ecf83a4b33fc4bb7f30783ff.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="bt">
+    <div class="universal-wrapper">
+      <footer class="site-footer">
+    <div class="flex-row flex-center-all flex-wrap p-full">
+
+      <div class="">
+        <a href="/imprint-and-privacy">Imprint and Privacy</a>
+      </div>
+      <div class="flex-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=&amp;body=" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%20" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+      
+    </div>
+</footer>
+
+    </div>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

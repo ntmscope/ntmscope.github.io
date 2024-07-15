@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOMA-CF on ntmscope</title>
+    <link>http://ntmscope.org/tags/moma-cf/</link>
+    <description>Recent content in MOMA-CF on ntmscope</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://ntmscope.org/tags/moma-cf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New publication in Microbiology spectrum</title>
+      <link>http://ntmscope.org/news/post05/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/news/post05/</guid>
+      <description>&lt;img src=&#34;featured.png&#34;&gt;
+&lt;br&gt;
+We are happy to have published the data from the MOMA-CF study in Microbiology spectrum and thank all collaborators for the succesful outcome of the study. 
+&lt;br&gt;
+&lt;br&gt;
+See the publication at &lt;a href=&#34;http://ntmscope.org/publication/ms_2022&#34;&gt;ntmcope.org&lt;/a&gt;, the &lt;a href=&#34;https://journals.asm.org/doi/10.1128/spectrum.01714-22&#34;&gt;Journal Homepage&lt;/a&gt;, or &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35938728/&#34;&gt; PubMed&lt;/a&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>

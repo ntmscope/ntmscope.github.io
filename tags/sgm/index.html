@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="ntmscope_theme 1.0.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap" rel="stylesheet">
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Inna Friesen">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="ntmscope is a research project for elucidating the genomic epidemiology of non-tuberculous mycobacteria.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://ntmscope.org/tags/sgm/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.2d52474944c8d86be41fac84d4d5ab07.css">
+
+  
+
+  
+  
+  
+  
+
+  
+  <link rel="alternate" href="/tags/sgm/index.xml" type="application/rss+xml" title="ntmscope">
+  <link rel="feed" href="/tags/sgm/index.xml" type="application/rss+xml" title="ntmscope">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://ntmscope.org/tags/sgm/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ntmscope">
+  <meta property="og:url" content="http://ntmscope.org/tags/sgm/">
+  <meta property="og:title" content="SGM | ntmscope">
+  <meta property="og:description" content="ntmscope is a research project for elucidating the genomic epidemiology of non-tuberculous mycobacteria."><meta property="og:image" content="http://ntmscope.org/img/logos/ntmscope.png">
+  <meta property="twitter:image" content="http://ntmscope.org/img/logos/ntmscope.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2024-07-15T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>SGM | ntmscope</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="bg-2">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg" id="navbar-main">
+  <div class="universal-wrapper flex-row flex-wrap p-sides">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logos/ntmscope_long.png" alt="ntmscope"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/news/"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/project/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/authors/"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact/"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="bb bg-3">
+  <div class="universal-wrapper p-vert-mobile-full flex-row flex-wrap flex-center-all">
+    
+    
+    <div class="w50">
+      
+      <h1 itemprop="name" class="page-title c-1">SGM</h1>
+
+      
+    </div>
+
+    
+  </div>
+</div>
+
+
+<div class="bg-3">
+  <div class="universal-wrapper __default-list">
+    
+
+    <div class="universal-wrapper p-t p-b">
+      <div class="flex-row flex-wrap __publication-single w100 w33-container tile-container">
+        
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/news/post19/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/news/post19/featured_huab23e13cd8b654646f97cbd7d636237a_397101_550x0_resize_q90_lanczos_3.png" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/news/post19/" itemprop="url">New publication iin Genome Medicine</a>
+      </h3>
+      
+      <div class="card-date meta-label">
+        Jul 15, 2024
+      </div>
+      
+      
+      
+
+
+
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <div class="card-wrapper">
+      
+      
+
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/publication/gm_2024/" itemprop="url">Clinical and genomic features of Mycobacterium avium complex: a multi-national European study</a>
+      </h3>
+      
+      <div class="card-date meta-label">
+        Jul 9, 2024
+      </div>
+      
+      
+      
+
+
+
+<meta content="2024-07-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-09 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nils-wetzstein/">Nils Wetzstein</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/margo-diricks/">Margo Diricks</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/thomas-b.-anton/">Thomas B. Anton</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sonke-andres/">Sönke Andres</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/martin-kuhns/">Martin Kuhns</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/thomas-a.-kohl/">Thomas A. Kohl</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/carsten-schwarz/">Carsten Schwarz</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/astrid-lewin6/">Astrid Lewin6</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jan-kehrmann/">Jan Kehrmann</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/barbara-c.-kahl/">Barbara C. Kahl</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/annika-schmidt/">Annika Schmidt</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stefan-zimmermann/">Stefan Zimmermann</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/moritz-k.-jansson/">Moritz K. Jansson</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sophie-a.-baron/">Sophie A. Baron</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bettina-schulthess/">Bettina Schulthess</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/michael-hogardt/">Michael Hogardt</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/inna-friesen/">Inna Friesen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stefan-niemann/">Stefan Niemann</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/thomas-a.-wichelhaus/">Thomas A. Wichelhaus</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>Genome Medicine</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Clinical and genomic features of Mycobacterium avium complex: a multi-national European study
+      </div>
+      
+
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/news/post18/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/news/post18/featured_hu2f07cf3284c9674a4afc12cef7b5d426_163925_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/news/post18/" itemprop="url">New publication in the Journal of Infection</a>
+      </h3>
+      
+      <div class="card-date meta-label">
+        Jun 27, 2024
+      </div>
+      
+      
+      
+
+
+
+<meta content="2024-06-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-06-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <div class="card-wrapper">
+      
+      
+
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/publication/yjinf_2024/" itemprop="url">Clinical spectrum and relevance of Mycobacterium malmoense: Systematic review and meta-analysis of 859 patients</a>
+      </h3>
+      
+      <div class="card-date meta-label">
+        Jun 19, 2024
+      </div>
+      
+      
+      
+
+
+
+<meta content="2024-06-19 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-06-19 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nils-wetzstein/">Nils Wetzstein</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/victor-naestholt-dahl/">Victor Naestholt Dahl</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/troels-lillebaek/">Troels Lillebaek</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christoph-lange/">Christoph Lange</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>Journal of Infection</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Differential radiological features of patients infected or colonised with slow-growing non-tuberculous mycobacteria
+      </div>
+      
+
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/project/meta/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/project/meta/featured_hu6795978637e7472323f39b29f5c27958_309431_550x0_resize_q90_lanczos_3.png" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/project/meta/" itemprop="url">NTMscope-Meta</a>
+      </h3>
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Investigation of available clinical data in rare NTM.
+      </div>
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/project/eco/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/project/eco/featured_hufd029050b10348158f15fe87963d848a_6805736_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/project/eco/" itemprop="url">ntmscope_eco</a>
+      </h3>
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Recovery of NTM from water samples.
+      </div>
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/project/mac/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/project/mac/featured_hu56ef4de79de36e3c2cb4e086d4ab991e_123384_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/project/mac/" itemprop="url">ntmscope_MAC</a>
+      </h3>
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Investigation of the molecular epidemiology of <em>M. avium</em> complex.
+      </div>
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/project/registry/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/project/registry/featured_huf5898bbfbb2936d6ec6954e41b6658df_18097_550x0_resize_q90_lanczos_3.png" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/project/registry/" itemprop="url">ntmscope_registry</a>
+      </h3>
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Clinical data collection from NTM infected patients.
+      </div>
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+        <div class="">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple __li-card" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="card-wrapper">
+      
+      
+
+      
+      
+      <a href="/project/ntmscope-s/" class="card-image">
+        <div class="card-image-wrapper">
+          <img src="/project/ntmscope-s/featured_hu60cbdb6a36a508fce05ddf02493c14a8_294613_550x0_resize_q90_lanczos_3.png" alt="" class="img-responsive">
+        </div>
+      </a>
+      
+
+      <div class="card-body">
+      <h3 class="article-title" itemprop="name">
+        <a href="/project/ntmscope-s/" itemprop="url">ntmscope_s</a>
+      </h3>
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Investigation of the molecular epidemiology of the <em>M. simiae</em> complex.
+      </div>
+      
+
+
+      
+    </div>
+    </div>
+</div>
+
+        </div>
+        
+      </div>
+    </div>
+
+    
+
+  </div>
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.01ec65a6ecf83a4b33fc4bb7f30783ff.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="bt">
+    <div class="universal-wrapper">
+      <footer class="site-footer">
+    <div class="flex-row flex-center-all flex-wrap p-full">
+
+      <div class="">
+        <a href="/imprint-and-privacy">Imprint and Privacy</a>
+      </div>
+      <div class="flex-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=&amp;body=" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%20" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+      
+    </div>
+</footer>
+
+    </div>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
