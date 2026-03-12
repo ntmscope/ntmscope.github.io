@@ -119,5 +119,59 @@ or
 </description>
     </item>
     
+    <item>
+      <title>MYSTIC-NTM</title>
+      <link>http://ntmscope.org/project/mystic-ntm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/project/mystic-ntm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PIs: Margo Diricks, Nils Wetzstein&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;
+With increasing availability of genomic data for different species of non-tuberculous mycobacteria (NTM) and standardized phenotypic drug susceptibility (pDST) data, the possibility of novel resistance gene predictions as well as application of known mechanisms to rare NTM species comes into reach.
+&lt;br&gt;
+&lt;br&gt;
+To date, genotypic prediction of drug susceptibility in NTM (gDST) is mainly limited to macrolides and aminoglycosides and only well established for M. abscessus, while extensive catalogues of mutational resistance in Mycobacterium tuberculosis complex have been established and are used in clinical practice.
+&lt;br&gt;
+&lt;br&gt;
+The increased use of whole genome sequencing as well as the application of standardized methods for pDST might allow to overcome these shortcomings and facilitate the generation of an extensive database with linked gDST and pDST data for NTM.
+&lt;br&gt;
+&lt;br&gt;
+We have the opportunity of generating a unique, large, international dataset of genotypic and phenotypic DST data. The study will include data from NTM isolates assessed in the respective laboratories. No clinical data and therefore no ethical consent will be needed. The submitted data can also be already published.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Inclusion criteria:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bacterial isolate belonging to any NTM-species (clinical, zoonotic or environmental sample)&lt;/li&gt;
+&lt;li&gt;Whole genome sequencing data for isolate available (short read or long read). The data can either be uploaded to a public repository (regardless of sequencing platform) or directly shared (see below)&lt;/li&gt;
+&lt;li&gt;pDST data for isolate available: either SLOMYCO1, SLOMYCO2, RAPMYCO1, RAPMYCO2, potentially other methods
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;How can the data be shared?:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The data (i.e. minimum inhibitory concentrations (MICS) and accession numbers of publicly available genome data) can be uploaded via a subsection of the NTMnet registry using a graphical user interface. Please contact the PIs to get an account and instructions.&lt;/li&gt;
+&lt;li&gt;You can also send data (i.e. MICs, accession numbers or whole genome sequencing data in case these are not yet publicly available) via secure servers to one of the PIs. These secure servers can either be set up by your institution or the institution of one of the PIs of this study.
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;The long-term goals of this study will be:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Goal 1: to improve and extend current resistance catalogue&lt;/li&gt;
+&lt;li&gt;Goal 2: to provide a benchmark dataset for resistance prediction tools (e.g. NTMprofiler)&lt;/li&gt;
+&lt;li&gt;Goal 3: to improve surveillance and monitor trends
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Why participate?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Because we all share the goal of improving the diagnosis and treatment of NTM infections.&lt;/li&gt;
+&lt;li&gt;Contributors will be appropriately acknowledged in any resulting publications — either as co-authors or as part of the study group, depending on the extent of contribution.&lt;/li&gt;
+&lt;li&gt;To ensure statistically meaningful correlations between genetic mutations and phenotypic resistance, broad participation and larger datasets are crucial — your contribution will help make this possible.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;http://ntmscope.org/contact/&#34;&gt;Contribute&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.ntmnet.org/mystic-ntm&#34;&gt;More information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

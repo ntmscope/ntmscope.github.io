@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="ntmscope_theme 1.0.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap" rel="stylesheet">
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Margo Diricks">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="MYcobacterial Susceptibility Testing and its genotypIC prediction in NTM.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://ntmscope.org/project/mystic-ntm/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.2d52474944c8d86be41fac84d4d5ab07.css">
+
+  
+
+  
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://ntmscope.org/project/mystic-ntm/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ntmscope">
+  <meta property="og:url" content="http://ntmscope.org/project/mystic-ntm/">
+  <meta property="og:title" content="MYSTIC-NTM | ntmscope">
+  <meta property="og:description" content="MYcobacterial Susceptibility Testing and its genotypIC prediction in NTM."><meta property="og:image" content="http://ntmscope.org/project/mystic-ntm/featured.png">
+  <meta property="twitter:image" content="http://ntmscope.org/project/mystic-ntm/featured.png"><meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>MYSTIC-NTM | ntmscope</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="bg-2">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg" id="navbar-main">
+  <div class="universal-wrapper flex-row flex-wrap p-sides">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logos/ntmscope_long.png" alt="ntmscope"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/project/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact/"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/"><span></span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+<div class="bb bg-3">
+  <div class="universal-wrapper flex-row flex-wrap">
+    <div class="page-title c-4 w66 p-full br">
+      
+        
+        
+        <div class="featured-image">
+          <img class="" src="/project/mystic-ntm/featured_hu1f0265eb057cac606c03fab8981bdc2a_55177_1400x0_resize_q90_lanczos_3.png" itemprop="image" alt="">
+        </div>
+        
+      
+      
+      <div class="meta-label">project</div>
+      
+      <h1 itemprop="name" class="c-4">MYSTIC-NTM</h1>
+      
+      <p class="page-subtitle c-4">MYcobacterial Susceptibility Testing and its genotypIC prediction in NTM</p>
+      
+    </div>
+    <div class="p-full w33 item-list">
+
+      
+      
+      
+      
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://ntmscope.org/project/mystic-ntm/&amp;text=MYSTIC-NTM" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://ntmscope.org/project/mystic-ntm/&amp;t=MYSTIC-NTM" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=MYSTIC-NTM&amp;body=http://ntmscope.org/project/mystic-ntm/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://ntmscope.org/project/mystic-ntm/&amp;title=MYSTIC-NTM" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=MYSTIC-NTM%20http://ntmscope.org/project/mystic-ntm/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://ntmscope.org/project/mystic-ntm/&amp;title=MYSTIC-NTM" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+      
+
+      
+      <div class="">
+        <a class="cta" href="/contact">Contribute</a>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+
+
+
+  <div class="universal-wrapper flex-row flex-wrap __project-single">
+
+    <div class="w66 br p-full ">
+      <div class="text-main-body">
+        <div class="text-main-body-wrapper hy text-justify">
+          <div class="p-b"><p><strong>PIs: Margo Diricks, Nils Wetzstein</strong>
+<br>
+<br>
+With increasing availability of genomic data for different species of non-tuberculous mycobacteria (NTM) and standardized phenotypic drug susceptibility (pDST) data, the possibility of novel resistance gene predictions as well as application of known mechanisms to rare NTM species comes into reach.
+<br>
+<br>
+To date, genotypic prediction of drug susceptibility in NTM (gDST) is mainly limited to macrolides and aminoglycosides and only well established for M. abscessus, while extensive catalogues of mutational resistance in Mycobacterium tuberculosis complex have been established and are used in clinical practice.
+<br>
+<br>
+The increased use of whole genome sequencing as well as the application of standardized methods for pDST might allow to overcome these shortcomings and facilitate the generation of an extensive database with linked gDST and pDST data for NTM.
+<br>
+<br>
+We have the opportunity of generating a unique, large, international dataset of genotypic and phenotypic DST data. The study will include data from NTM isolates assessed in the respective laboratories. No clinical data and therefore no ethical consent will be needed. The submitted data can also be already published.
+<br>
+<br>
+<strong>Inclusion criteria:</strong></p>
+<ul>
+<li>bacterial isolate belonging to any NTM-species (clinical, zoonotic or environmental sample)</li>
+<li>Whole genome sequencing data for isolate available (short read or long read). The data can either be uploaded to a public repository (regardless of sequencing platform) or directly shared (see below)</li>
+<li>pDST data for isolate available: either SLOMYCO1, SLOMYCO2, RAPMYCO1, RAPMYCO2, potentially other methods
+<br>
+<br>
+<strong>How can the data be shared?:</strong></li>
+<li>The data (i.e. minimum inhibitory concentrations (MICS) and accession numbers of publicly available genome data) can be uploaded via a subsection of the NTMnet registry using a graphical user interface. Please contact the PIs to get an account and instructions.</li>
+<li>You can also send data (i.e. MICs, accession numbers or whole genome sequencing data in case these are not yet publicly available) via secure servers to one of the PIs. These secure servers can either be set up by your institution or the institution of one of the PIs of this study.
+<br>
+<br>
+<strong>The long-term goals of this study will be:</strong></li>
+<li>Goal 1: to improve and extend current resistance catalogue</li>
+<li>Goal 2: to provide a benchmark dataset for resistance prediction tools (e.g. NTMprofiler)</li>
+<li>Goal 3: to improve surveillance and monitor trends
+<br>
+<br>
+<strong>Why participate?</strong></li>
+<li>Because we all share the goal of improving the diagnosis and treatment of NTM infections.</li>
+<li>Contributors will be appropriately acknowledged in any resulting publications — either as co-authors or as part of the study group, depending on the extent of contribution.</li>
+<li>To ensure statistically meaningful correlations between genetic mutations and phenotypic resistance, broad participation and larger datasets are crucial — your contribution will help make this possible.
+<br>
+<br>
+<br>
+<a href="/contact/">Contribute</a>
+<br>
+<br>
+<a href="https://www.ntmnet.org/mystic-ntm">More information</a></li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="w33 p-full">
+
+      <div class="">
+        <div class="meta-label">Tags</div>
+        
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/ntm/">NTM</a>
+  
+  <a class="badge badge-light" href="/tags/non-tuberculous-mycobacteria/">non-tuberculous mycobacteria</a>
+  
+  <a class="badge badge-light" href="/tags/dst/">DST</a>
+  
+  <a class="badge badge-light" href="/tags/drug-susceptibility-testing/">drug susceptibility testing</a>
+  
+  <a class="badge badge-light" href="/tags/wgs/">WGS</a>
+  
+  <a class="badge badge-light" href="/tags/whole-genome-sequencing/">whole genome sequencing</a>
+  
+</div>
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+  
+
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.01ec65a6ecf83a4b33fc4bb7f30783ff.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="bt">
+    <div class="universal-wrapper">
+      <footer class="site-footer">
+    <div class="flex-row flex-center-all flex-wrap p-full">
+
+      <div class="">
+        <a href="/imprint-and-privacy">Imprint and Privacy</a>
+      </div>
+      <div class="flex-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=&amp;body=" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%20" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+      
+    </div>
+</footer>
+
+    </div>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

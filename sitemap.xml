@@ -263,7 +263,13 @@
   </url><url>
     <loc>http://ntmscope.org/contact/</loc>
   </url><url>
+    <loc>http://ntmscope.org/data/chrono_clone/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/chrono_clone/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/data/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/tags/dst/</loc>
   </url><url>
     <loc>http://ntmscope.org/imprint-and-privacy/</loc>
   </url><url>
@@ -277,13 +283,25 @@
   </url><url>
     <loc>http://ntmscope.org/tags/m.-xenopi/</loc>
   </url><url>
+    <loc>http://ntmscope.org/data/moma_cf/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/moma_cf/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/project/mystic-ntm/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/data/eco/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/eco/</loc>
   </url><url>
+    <loc>http://ntmscope.org/data/mac/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/mac/</loc>
   </url><url>
+    <loc>http://ntmscope.org/data/ntmscope-replage/</loc>
+  </url><url>
     <loc>http://ntmscope.org/project/ntmscope-replage/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/data/ntmscope-s/</loc>
   </url><url>
     <loc>http://ntmscope.org/project/ntmscope-s/</loc>
   </url><url>
@@ -296,5 +314,9 @@
     <loc>http://ntmscope.org/tags/rgm/</loc>
   </url><url>
     <loc>http://ntmscope.org/tags/water-samples/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/tags/wgs/</loc>
+  </url><url>
+    <loc>http://ntmscope.org/tags/whole-genome-sequencing/</loc>
   </url>
 </urlset>

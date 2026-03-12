@@ -193,11 +193,20 @@
     </item>
     
     <item>
-      <title>Drug susceptibility testing</title>
+      <title>drug susceptibility testing</title>
       <link>http://ntmscope.org/tags/drug-susceptibility-testing/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/drug-susceptibility-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DST</title>
+      <link>http://ntmscope.org/tags/dst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/dst/</guid>
       <description></description>
     </item>
     
@@ -270,6 +279,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ntmscope.org/tags/water-samples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WGS</title>
+      <link>http://ntmscope.org/tags/wgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/wgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whole genome sequencing</title>
+      <link>http://ntmscope.org/tags/whole-genome-sequencing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ntmscope.org/tags/whole-genome-sequencing/</guid>
       <description></description>
     </item>
     
